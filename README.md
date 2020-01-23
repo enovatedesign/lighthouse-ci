@@ -2,7 +2,7 @@
 
 Lighthouse CI is a Docker image used to run Google Lighthouse Audits within a CI environment :rocket:
 
-:warning: There are multiple ways of running Lighthouse within CI. We are using the [LHCI](https://github.com/GoogleChrome/lighthouse-ci)
+:warning: There are multiple ways of running Lighthouse within CI. We are using [LHCI](https://github.com/GoogleChrome/lighthouse-ci).
 
 ## Contributing
 
